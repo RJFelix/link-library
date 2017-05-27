@@ -21,6 +21,7 @@
 * [DevDocs documentation aggregator](http://devdocs.io/)
 * [JavaScript30 - build 30 things in 30 days with vanilla JS](https://javascript30.com/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [reddit/webdev - My company hass $1000 for me to spend on job-related (web dev) education. Any recommendations?](https://www.reddit.com/r/webdev/comments/5e51qj/my_company_has_1000_for_me_to_spend_on_jobrelated/daa3aw5/) - post by Komorebi-Light
 
 ## Design
 
