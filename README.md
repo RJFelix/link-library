@@ -23,6 +23,11 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [reddit/webdev - My company hass $1000 for me to spend on job-related (web dev) education. Any recommendations?](https://www.reddit.com/r/webdev/comments/5e51qj/my_company_has_1000_for_me_to_spend_on_jobrelated/daa3aw5/) - post by Komorebi-Light
 
+## Books
+
+* [Clean Code](http://ricardogeek.com/docs/clean_code.html) - Robert C. Martin
+* [The Pragmatic Programmer, From Journeyman To Master](https://github.com/ldfaiztt/CSE331/blob/master/The%20Pragmatic%20Programmer%2C%20From%20Journeyman%20To%20Master.pdf) - Andrew Hunt and David Thomas
+
 ## Design
 
 * [uiGradients](https://uigradients.com/)
@@ -65,6 +70,24 @@
 ## Games
 
 * [agar.io clone](https://github.com/huytd/agar.io-clone) - Huy Tr.
+
+## Haskell
+
+* [Learn You a Haskell For Great Good!](http://learnyouahaskell.com/chapters) - book by Miran Lipovača
+* [Real World Haskell](http://book.realworldhaskell.org/read/) - book by Bryan O'Sullivan, Don Stewart, and John Goerzen
+
+## Scala
+
+* [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) - Coursera course by Prof. Martin Odersky, creator of Scala
+* [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) - ibid.
+* [Parallel Programming](https://www.coursera.org/learn/parprog1) - Coursera course by Prof. Viktor Kuncak and Dr. Aleksandar Prokopec (continuation of above)
+* [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) - Coursera course by Dr. Heather Miller (continuation of above)
+* [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone) - Coursera course by Dr. Julien Richard-Foy (finishes above sequence)
+* [Official Scala documentation](http://docs.scala-lang.org/index.html)
+* [Scala School! From ∅ to Distributed Service](https://twitter.github.io/scala_school/) - by Twitter
+* [Scala Exercises](https://www.scala-exercises.org/) - by 47 Degrees
+* [Daily Scala](http://daily-scala.blogspot.com/) - Jesse Eichar
+* 
 
 ## CompSci
 
